@@ -1,0 +1,29 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.1",
+    "dotenv": "^16.0.2",
+    "exceljs": "^4.3.0",
+    "express": "^4.18.1",
+    "fs": "^0.0.1-security",
+    "googleapis": "^109.0.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "joi": "^17.7.0",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.20",
+    "path": "^0.12.7",
+    "socket.io": "^4.5.2",
+    "truecallerjs": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
